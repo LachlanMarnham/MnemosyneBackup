@@ -792,3 +792,121 @@
 2019-02-14 10:06:00 : R RhT4aaOX3OLOMEWkPzVflU 1 2.22 | 1 5 1 0 0 | 3935841 8799801 | 0 0 | 0.0
 2019-02-14 10:20:58 : Saved database 70 4 213
 2019-02-14 10:20:58 : Program stopped
+2019-05-28 23:17:30 : Program started : Mnemosyne 2.6.1 posix linux TZ 1
+2019-05-28 23:17:30 : Scheduler : SM2 Mnemosyne
+2019-05-28 23:17:42 : Loaded database 137 4 213
+2019-05-29 23:17:42 : Loaded database 1 -666 -666
+2019-05-30 23:17:42 : Loaded database 1 -666 -666
+2019-05-31 23:17:42 : Loaded database 1 -666 -666
+2019-06-01 23:17:42 : Loaded database 2 -666 -666
+2019-06-02 23:17:42 : Loaded database 3 -666 -666
+2019-06-03 23:17:42 : Loaded database 5 -666 -666
+2019-06-04 23:17:42 : Loaded database 7 -666 -666
+2019-05-28 23:23:23 : R adCy5VMSPITwKXuVORsWkl 2 2.06 | 1 7 0 1 7 | 14919341 29507801 | 15212197 0 | 48.0
+2019-05-28 23:28:24 : R KI118ZwlnBihsECoD8lIw6 2 1.78 | 1 8 0 1 8 | 15272323 26059326 | 15039096 0 | 276.0
+2019-05-28 23:34:03 : New item aLLWOG6hGhst1Y74at7uPG -1 -1
+2019-05-28 23:34:41 : New item TZwuMtQDwrRb4wpthaiLZd -1 -1
+2019-05-28 23:40:25 : New item 02hrCXOwrpBclVauOFUfcK -1 -1
+2019-05-28 23:46:22 : New item Fl6aidTXZliRFUT6IJu4om -1 -1
+2019-05-28 23:47:10 : New item 385mv20hJ3SZagf5PaX7ty -1 -1
+2019-05-28 23:47:20 : Saved database 0 5 7
+2019-05-28 23:47:20 : Program stopped
+2020-04-06 19:36:54 : Program started : Mnemosyne 2.6.1 posix linux TZ 1
+2020-04-06 19:36:54 : Scheduler : SM2 Mnemosyne
+2020-04-06 19:36:55 : Loaded database 2 5 7
+2020-04-07 19:36:55 : Loaded database 0 -666 -666
+2020-04-08 19:36:55 : Loaded database 0 -666 -666
+2020-04-09 19:36:55 : Loaded database 0 -666 -666
+2020-04-10 19:36:55 : Loaded database 0 -666 -666
+2020-04-11 19:36:55 : Loaded database 0 -666 -666
+2020-04-12 19:36:55 : Loaded database 0 -666 -666
+2020-04-13 19:36:55 : Loaded database 0 -666 -666
+2020-04-06 19:37:38 : R KI118ZwlnBihsECoD8lIw6 2 1.62 | 1 9 0 1 9 | 15046296 27115711 | 15657742 0 | 19.0
+2020-04-06 19:38:00 : R adCy5VMSPITwKXuVORsWkl 2 1.90 | 1 8 0 1 8 | 15219397 27116055 | 15830520 0 | 14.0
+2020-04-06 19:38:27 : R aLLWOG6hGhst1Y74at7uPG 5 2.50 | 1 0 0 1 0 | 0 0 | 537693 0 | 0.0
+2020-04-06 19:38:38 : R TZwuMtQDwrRb4wpthaiLZd 5 2.50 | 1 0 0 1 0 | 0 0 | 537682 0 | 0.0
+2020-04-06 19:38:51 : R 02hrCXOwrpBclVauOFUfcK 5 2.50 | 1 0 0 1 0 | 0 0 | 624069 0 | 9.0
+2020-04-06 19:39:35 : R Fl6aidTXZliRFUT6IJu4om 2 2.50 | 1 0 0 1 0 | 0 0 | 105625 0 | 32.0
+2020-04-06 19:39:51 : R 385mv20hJ3SZagf5PaX7ty 5 2.50 | 1 0 0 1 0 | 0 0 | 537609 0 | 10.0
+2020-04-06 19:43:14 : New item lHkJkHRowuuAiM2xURh1ID -1 -1
+2020-04-06 19:43:37 : Scheduler : cramming
+2020-04-06 19:43:58 : Scheduler : SM2 Mnemosyne
+2020-04-06 19:56:23 : R lHkJkHRowuuAiM2xURh1ID 5 2.50 | 1 0 0 1 0 | 0 0 | 536617 0 | 25.0
+2020-04-06 19:59:58 : New item ayrD0Xh57M1mYpj3wVaWqF -1 -1
+2020-04-06 20:06:51 : New item qa7cbUcmHDaWRDcbFYkMkU -1 -1
+2020-04-06 20:13:38 : New item zod3doRsaDpMlMpptH11ob -1 -1
+2020-04-06 20:14:36 : New item Qb8TDptRHuN11v1Gcddjre -1 -1
+2020-04-06 20:14:36 : R Qb8TDptRHuN11v1Gcddjre 4 2.50 | 1 0 0 1 0 | 0 0 | 276324 0 | 0.0
+2020-04-06 20:17:55 : New item ddoKuf0SyQHfl6KTw2yLOc -1 -1
+2020-04-06 20:20:04 : New item EeJaAdGIrhDOGXxe8LWx4A -1 -1
+2020-04-06 20:21:28 : R ayrD0Xh57M1mYpj3wVaWqF 5 2.50 | 1 0 0 1 0 | 0 0 | 621512 0 | 126.0
+2020-04-06 20:22:30 : R qa7cbUcmHDaWRDcbFYkMkU 5 2.50 | 1 0 0 1 0 | 0 0 | 621450 0 | 59.0
+2020-04-06 20:24:54 : R zod3doRsaDpMlMpptH11ob 2 2.50 | 1 0 0 1 0 | 0 0 | 102906 0 | 135.0
+2020-04-06 20:25:42 : R ddoKuf0SyQHfl6KTw2yLOc 5 2.50 | 1 0 0 1 0 | 0 0 | 621258 0 | 43.0
+2020-04-06 20:26:07 : R EeJaAdGIrhDOGXxe8LWx4A 5 2.50 | 1 0 0 1 0 | 0 0 | 534833 0 | 20.0
+2020-04-06 20:30:00 : New item j5Dzlxap0yAKXAZrixEvNy -1 -1
+2020-04-06 20:30:37 : New item bqpzystn4DHvtr4AQK1fe1 -1 -1
+2020-04-06 20:31:46 : New item JummCKbvc2xfyKWYOQGTat -1 -1
+2020-04-06 20:33:13 : New item 4zPaYeYlObzyRBnB7n0eME -1 -1
+2020-04-06 20:36:35 : New item FLuPpCU2Lxi1fmjETgQkKZ -1 -1
+2020-04-06 20:37:08 : Saved database 0 5 19
+2020-04-06 20:37:08 : Program stopped
+2020-04-11 20:08:41 : Program started : Mnemosyne 2.6.1 posix linux TZ 1
+2020-04-11 20:08:41 : Scheduler : SM2 Mnemosyne
+2020-04-11 20:08:41 : Loaded database 3 5 19
+2020-04-12 20:08:41 : Loaded database 0 -666 -666
+2020-04-13 20:08:41 : Loaded database 5 -666 -666
+2020-04-14 20:08:41 : Loaded database 9 -666 -666
+2020-04-15 20:08:41 : Loaded database 9 -666 -666
+2020-04-16 20:08:41 : Loaded database 9 -666 -666
+2020-04-17 20:08:41 : Loaded database 9 -666 -666
+2020-04-18 20:08:41 : Loaded database 9 -666 -666
+2020-04-11 20:12:51 : R zod3doRsaDpMlMpptH11ob 5 2.60 | 1 1 0 1 1 | 110106 431027 | 449229 0 | 184.0
+2020-04-11 20:13:25 : R Fl6aidTXZliRFUT6IJu4om 5 2.60 | 1 1 0 1 1 | 112825 433996 | 449195 0 | 30.0
+2020-04-11 20:13:35 : Deleted item Qb8TDptRHuN11v1Gcddjre
+2020-04-11 20:14:04 : R j5Dzlxap0yAKXAZrixEvNy 5 2.50 | 1 0 0 1 0 | 0 0 | 535556 0 | 0.0
+2020-04-11 20:15:50 : R bqpzystn4DHvtr4AQK1fe1 5 2.50 | 1 0 0 1 0 | 0 0 | 621850 0 | 0.0
+2020-04-11 20:16:10 : R JummCKbvc2xfyKWYOQGTat 5 2.50 | 1 0 0 1 0 | 0 0 | 621830 0 | 15.0
+2020-04-11 20:16:53 : R 4zPaYeYlObzyRBnB7n0eME 5 2.50 | 1 0 0 1 0 | 0 0 | 535387 0 | 38.0
+2020-04-11 20:18:13 : R FLuPpCU2Lxi1fmjETgQkKZ 5 2.50 | 1 0 0 1 0 | 0 0 | 535307 0 | 75.0
+2020-04-11 20:20:16 : New item cJVUCeDm6qPEI7GJkwOAUZ -1 -1
+2020-04-11 20:22:06 : New item sLcBoRtaKSilgEqdonM0iR -1 -1
+2020-04-11 20:23:19 : New item 6sz4ZtYrev1apET4aZWQeA -1 -1
+2020-04-11 20:25:51 : New item tH8ThkrckyKTDqo7fe3lvU -1 -1
+2020-04-11 20:26:41 : New item hRVXcFCWbtgGhgnrZQRvZW -1 -1
+2020-04-11 20:36:54 : New item mnxT5wA74ayXbQZkVatJKa -1 -1
+2020-04-11 20:39:16 : New item 41VSdstxrFGNxpHVDzHf5a -1 -1
+2020-04-11 20:39:57 : Saved database 0 7 25
+2020-04-11 20:39:57 : Program stopped
+2020-04-17 21:33:34 : Program started : Mnemosyne 2.6.1 posix linux TZ 1
+2020-04-17 21:33:34 : Scheduler : SM2 Mnemosyne
+2020-04-17 21:33:34 : Loaded database 11 7 25
+2020-04-18 21:33:34 : Loaded database 3 -666 -666
+2020-04-19 21:33:34 : Loaded database 5 -666 -666
+2020-04-20 21:33:34 : Loaded database 5 -666 -666
+2020-04-21 21:33:34 : Loaded database 5 -666 -666
+2020-04-22 21:33:34 : Loaded database 5 -666 -666
+2020-04-23 21:33:34 : Loaded database 5 -666 -666
+2020-04-24 21:33:34 : Loaded database 5 -666 -666
+2020-04-17 21:33:59 : R Fl6aidTXZliRFUT6IJu4om 5 2.70 | 1 2 0 1 2 | 456395 523234 | 1567561 0 | 0.0
+2020-04-17 21:39:29 : R zod3doRsaDpMlMpptH11ob 5 2.70 | 1 2 0 1 2 | 456429 523598 | 1653631 0 | 0.0
+2020-04-17 21:39:34 : R EeJaAdGIrhDOGXxe8LWx4A 5 2.60 | 1 1 0 1 1 | 542033 954807 | 444026 0 | 0.0
+2020-04-17 21:40:28 : R lHkJkHRowuuAiM2xURh1ID 5 2.60 | 1 1 0 1 1 | 543817 956645 | 443972 0 | 0.0
+2020-04-17 21:40:38 : R 385mv20hJ3SZagf5PaX7ty 5 2.60 | 1 1 0 1 1 | 544809 957647 | 530362 0 | 0.0
+2020-04-17 21:40:48 : R TZwuMtQDwrRb4wpthaiLZd 5 2.60 | 1 1 0 1 1 | 544882 957730 | 443952 0 | 0.0
+2020-04-17 21:40:56 : R aLLWOG6hGhst1Y74at7uPG 5 2.60 | 1 1 0 1 1 | 544893 957749 | 530344 0 | 0.0
+2020-04-17 21:41:45 : R ddoKuf0SyQHfl6KTw2yLOc 5 2.60 | 1 1 0 1 1 | 628458 954963 | 443895 0 | 0.0
+2020-04-17 21:43:18 : R qa7cbUcmHDaWRDcbFYkMkU 5 2.60 | 1 1 0 1 1 | 628650 955155 | 443802 0 | 90.0
+2020-04-17 21:44:02 : R ayrD0Xh57M1mYpj3wVaWqF 5 2.60 | 1 1 0 1 1 | 628712 955310 | 530158 0 | 36.0
+2020-04-17 21:44:13 : R 02hrCXOwrpBclVauOFUfcK 5 2.60 | 1 1 0 1 1 | 631269 957911 | 443747 0 | 8.0
+2020-04-17 21:45:27 : R cJVUCeDm6qPEI7GJkwOAUZ 5 2.50 | 1 0 0 1 0 | 0 0 | 616473 0 | 0.0
+2020-04-17 21:45:35 : R sLcBoRtaKSilgEqdonM0iR 5 2.50 | 1 0 0 1 0 | 0 0 | 616465 0 | 0.0
+2020-04-17 21:45:46 : R 6sz4ZtYrev1apET4aZWQeA 5 2.50 | 1 0 0 1 0 | 0 0 | 530054 0 | 0.0
+2020-04-17 21:47:28 : R tH8ThkrckyKTDqo7fe3lvU 2 2.50 | 1 0 0 1 0 | 0 0 | 97952 0 | 0.0
+2020-04-17 21:47:56 : R hRVXcFCWbtgGhgnrZQRvZW 5 2.50 | 1 0 0 1 0 | 0 0 | 616324 0 | 24.0
+2020-04-17 21:48:59 : R mnxT5wA74ayXbQZkVatJKa 0 2.50 | 1 0 0 1 0 | 0 0 | 0 0 | 37.0
+2020-04-17 21:51:19 : R 41VSdstxrFGNxpHVDzHf5a 0 2.50 | 1 0 0 1 0 | 0 0 | 0 0 | 115.0
+2020-04-17 21:52:05 : R mnxT5wA74ayXbQZkVatJKa 2 2.50 | 2 0 0 2 0 | 0 186 | 11275 0 | 0.0
+2020-04-17 21:52:48 : R 41VSdstxrFGNxpHVDzHf5a 2 2.50 | 2 0 0 2 0 | 0 46 | 97632 0 | 39.0
+2020-04-17 21:52:55 : Saved database 0 0 25
+2020-04-17 21:52:55 : Program stopped
